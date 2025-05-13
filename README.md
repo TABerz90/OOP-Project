@@ -55,5 +55,6 @@
 
 * Ensure SFML is correctly installed and linked.
 * Required assets (textures, fonts) must be available in correct directories.
+* **Important**: Copy and paste the entire contents of the `Files` folder (Not the file itself) into your SFML workspace project directory. This folder contains all the required textures, fonts, and images used by the game.
 
 Enjoy the spell-slinging adventure of **Magicka**!
