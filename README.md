@@ -1,5 +1,6 @@
 # OOP-Project - Magicka: A Roguelike Deckbuilder
 
+**Developed By:** Talha Ahmad Butt (24L-0620)
 **Magicka** is a fully keyboard-controlled roguelike deckbuilder game developed as a course project for **Object Oriented Programming**.
 
 ## 🎮 How to Play
